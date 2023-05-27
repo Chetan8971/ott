@@ -1,0 +1,35 @@
+
+
+//! how many times react excecutes initially ? -->
+
+
+2 times bcoz we will be hving some testing methods initially to check so 
+means we wll be having strict mode in index.js 
+
+
+so we have to remove the strict mode then the code will be excecuted only once 
+we can check it in console
+
+
+ npx json-server --watch data.json  --port 4000  ------> everytime we have to run the database 
+ once enter into the react app development
+
+
+
+ //!npm i react-router-dom   syntax for package installation(routing and some inbuilt functions)
+
+
+empty string ("") value is false
+"chetan"  this value is true
+
+
+
+
+
+
+
+
+
+
+
+
