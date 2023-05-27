@@ -18,6 +18,7 @@ const MovieDetails = () => {
                 .then((data) => {
                     console.log(data);
                     setmovie(data);
+                    console.log(data);
                 } )
                 .catch((error)=>{
                     setError("404 network issue !!!! plz try again later");
